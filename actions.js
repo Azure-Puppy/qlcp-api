@@ -1,4 +1,4 @@
-module.exports = (instance) => {
+dmodule.exports = (instance) => {
 	instance.setActionDefinitions({
 		getFunctionsList: {
 			name: 'Get Function List',
